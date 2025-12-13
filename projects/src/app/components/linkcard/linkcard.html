@@ -1,0 +1,10 @@
+<div class="card" style="width: 20rem;">
+  <img src={{card().image.src}} alt={{card().image.alt}}>
+
+  <div class="card-body">
+    <h4 class="card-title">{{card().title}}</h4>
+    <h5 class="card-subtitle">{{card().subtitle}}</h5>
+    <p class="card-text">{{card().text}}</p>
+    <a href={{card().button.link}} class="paper-btn{{card().button.disabled ? ' disabled' : ''}}">{{card().button.text}}</a>
+  </div>
+</div>
