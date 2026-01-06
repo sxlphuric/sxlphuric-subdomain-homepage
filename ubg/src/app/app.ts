@@ -1,12 +1,12 @@
 import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Main } from './components/main/main';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [Main],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
 export class App {
-  protected readonly title = signal('ubg');
+  protected readonly title = signal('Unblocked Games');
 }
