@@ -1,0 +1,6 @@
+<div class="container paper main">
+    @for (card of cardList; track card; let i = $index) {
+        <app-linkcard [card]=card [index]=i></app-linkcard>
+    }
+</div>
+
