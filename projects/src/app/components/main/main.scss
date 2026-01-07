@@ -1,8 +1,16 @@
 .main {
     height: 100%;
-    width: fit-content;
+    display: grid;
+    grid-template-columns: 20rem 20rem;
+    width: calc(40rem + 80px);
+    
+    @media (max-width: 900px) {
+        grid-template-columns: 20rem;
+        width: calc(20rem + 80px);
+    }
+
 }
 
-.card {
-    margin-bottom: 8px !important;
+app-linkcard {
+    width: 20rem;
 }
