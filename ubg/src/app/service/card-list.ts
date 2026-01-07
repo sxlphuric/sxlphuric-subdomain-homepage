@@ -7,114 +7,100 @@ import { Card } from '../classes/card';
 export class CardList {
   cardlist: Card[] = [
     new Card(
-      "Extra work",
-      "English class",
-      "100% i am clearly doing extra work trust",
+      "DuckMath",
+      "Platform",
+      "One of the biggest game websites out there for schools",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://phuri.cc",
+        link: "https://duck.ubg.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Adrouter",
-      "School",
-      "Adrouter is a small website I made for an english project.",
+      "Frogie's arcade",
+      "Platform",
+      "A very known games website for schools with a proxy, somewhat controversial.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://adrouter.projects.phuri.cc",
+        link: "https://frogies.ubg.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Burst News",
-      "School",
-      "Burst News is a small website I made for an english project.",
+      "Truffled",
+      "Platform",
+      "A very known games website for schools, somewhat controversial.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://burstnews.projects.phuri.cc",
+        link: "https://truffled.ubg.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "My old website",
-      "Personal",
-      "This is just an old website I made, very low quality.",
+      "Quasar",
+      "Platform",
+      "A very unknown games website. I think it's high quality.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://oldwebsite.projects.phuri.cc",
+        link: "https://quasar.ubg.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Cars",
-      "Learning Angular",
-      "This is a small website I made to help me learn Angular.",
+      "Pixel Client 1.12.2",
+      "Games",
+      "Minecraft 1.12.2 in your browser! This is the WASM version.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://cars-test.projects.phuri.cc",
+        link: "https://pixel12.ubg.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Food",
-      "Learning Angular",
-      "This is a small website I made to help me learn Angular.",
+      "Sandboxels",
+      "Games",
+      "An element playground. Straight on your browser.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://food-test.projects.phuri.cc",
+        link: "https://sandboxels.ubg.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Icanguessanumber?",
-      "Learning Angular",
-      "This is a small website I made to help me learn Angular",
+      "Google Snake Mods",
+      "Games",
+      "Google snake, but with mods! Have some extras in your game.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://number-guess.projects.phuri.cc",
-        disabled: false
-      }
-    ),
-    new Card(
-      "My old website",
-      "Personal",
-      "freaky thing i made... it sucks",
-      {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
-      },
-      {
-        text: "Go",
-        link: "https://oldwebsite.projects.phuri.cc",
+        link: "https://snake.ubg.phuri.cc",
         disabled: false
       }
     ),
