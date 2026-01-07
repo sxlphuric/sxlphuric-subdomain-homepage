@@ -1,16 +1,42 @@
+$cardwidth: 20rem;
 .main {
     height: 100%;
+    max-width: none !important;
     display: grid;
-    grid-template-columns: 20rem 20rem;
-    width: calc(40rem + 80px);
-    
-    @media (max-width: 900px) {
-        grid-template-columns: 20rem;
-        width: calc(20rem + 80px);
+    $colgap: 8px;
+    $gridwidth: 40rem;
+    $padding: 40px;
+    justify-content: center;
+
+    @media (min-width: 900px) {
+        $colgap: 8px;
+        $gridwidth: 40rem;
+        grid-template-columns: $cardwidth $cardwidth;
+        width: calc($gridwidth + $padding*2 + $colgap);
     }
 
+    @media (max-width: 900px) {
+        $colgap:0px;
+        $gridwidth: 20rem;
+        grid-template-columns: $cardwidth;
+        width: calc($gridwidth + $padding*2 + $colgap);
+    }
+
+    @media (min-width: 1200px) {
+        $colgap: 8px;
+        $gridwidth: 60rem;
+        grid-template-columns: $cardwidth $cardwidth $cardwidth;
+        width: calc($gridwidth + $padding*2 + $colgap);
+    }
+
+    
+
+    
+
+    column-gap: $colgap;
+    row-gap: $colgap;
 }
 
 app-linkcard {
-    width: 20rem;
+    width: $cardwidth;
 }
