@@ -7,116 +7,159 @@ import { Card } from '../classes/card';
 export class CardList {
   cardlist: Card[] = [
     new Card(
-      "Extra work",
-      "English class",
-      "100% i am clearly doing extra work trust",
+      "AfiliteOS",
+      "WebOS",
+      "A mock operating system with a web browser and a few apps.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://phuri.cc",
+        link: "https://afilite.ub.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Adrouter",
-      "School",
-      "Adrouter is a small website I made for an english project.",
+      "Arsenic",
+      "Proxy",
+      "Arsenic is a simple, sleek, and efficient proxy.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://adrouter.projects.phuri.cc",
+        link: "https://arsenic.ub.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Burst News",
-      "School",
-      "Burst News is a small website I made for an english project.",
+      "DogeUB",
+      "AIO",
+      "Doge Unblocker is a simple, yet nice looking proxy with some games.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://burstnews.projects.phuri.cc",
+        link: "https://doge.ub.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "My old website",
-      "Personal",
-      "This is just an old website I made, very low quality.",
+      "Fern",
+      "Proxy",
+      "Instead of using a Scramjet proxy on the backend, it has a VPN.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://oldwebsite.projects.phuri.cc",
+        link: "https://fern.ub.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Cars",
-      "Learning Angular",
-      "This is a small website I made to help me learn Angular.",
+      "GalaxyOS",
+      "WebOS",
+      "This mock operating system has a working browser and some games.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://cars-test.projects.phuri.cc",
+        link: "https://galaxy.ub.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Food",
-      "Learning Angular",
-      "This is a small website I made to help me learn Angular.",
+      "Neo",
+      "AIO",
+      "This used to be known as MexiMath, but rebranded.",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://food-test.projects.phuri.cc",
+        link: "https://neo.ub.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "Icanguessanumber?",
-      "Learning Angular",
-      "This is a small website I made to help me learn Angular",
+      "Prism",
+      "Proxy",
+      "A simple proxy. This used to be known as Vapor",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://number-guess.projects.phuri.cc",
+        link: "https://prism.ub.phuri.cc",
         disabled: false
       }
     ),
     new Card(
-      "My old website",
-      "Personal",
-      "freaky thing i made... it sucks",
+      "TGLSC Unblocked",
+      "AIO",
+      "Never used this before",
       {
         src: "/images/placeholder.jpg",
         alt: "Cactus in a pot"
       },
       {
         text: "Go",
-        link: "https://oldwebsite.projects.phuri.cc",
+        link: "https://tglsc.ub.phuri.cc",
         disabled: false
       }
     ),
+    new Card(
+      "Utopia",
+      "AIO",
+      "Probably the most popular one. Has its own chatbot.",
+      {
+        src: "/images/placeholder.jpg",
+        alt: "Cactus in a pot"
+      },
+      {
+        text: "Go",
+        link: "https://utopia.ub.phuri.cc",
+        disabled: false
+      }
+    ),
+    new Card(
+      "Waves",
+      "AIO",
+      "Simple, clean proxy with some games. Usually my favorite.",
+      {
+        src: "/images/placeholder.jpg",
+        alt: "Cactus in a pot"
+      },
+      {
+        text: "Go",
+        link: "https://waves.ub.phuri.cc",
+        disabled: false
+      }
+    ),
+    new Card(
+      "Vortex",
+      "Chat",
+      "An online chatting app with schools in mind",
+      {
+        src: "/images/placeholder.jpg",
+        alt: "Cactus in a pot"
+      },
+      {
+        text: "Go",
+        link: "https://vortex.ub.phuri.cc",
+        disabled: false
+      }
+    ),
+    
   ]
 }
