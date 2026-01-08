@@ -11,8 +11,8 @@ export class CardList {
       "School",
       "Adrouter is a small website I made for an english project.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/adrouter.png",
+        alt: "Screenshot of adrouter.projects.phuri.cc containing text"
       },
       {
         text: "Go",
@@ -25,8 +25,8 @@ export class CardList {
       "School",
       "Burst News is a small website I made for an english project.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/burstnews.png",
+        alt: "Screenshot of burstnews.projects.phuri.cc"
       },
       {
         text: "Go",
@@ -39,8 +39,8 @@ export class CardList {
       "Personal",
       "This is just an old website I made, very low quality.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/oldwebsite.png",
+        alt: "Screenshot of oldwebsite.projects.phuri.cc"
       },
       {
         text: "Go",
@@ -53,8 +53,8 @@ export class CardList {
       "Learning Angular",
       "This is a small website I made to help me learn Angular.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/peopleandcars.png",
+        alt: "Screenshot of cars-test.projects.phuri.cc"
       },
       {
         text: "Go",
@@ -67,8 +67,8 @@ export class CardList {
       "Learning Angular",
       "This is a small website I made to help me learn Angular.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/foodinfo.png",
+        alt: "Short information about curry"
       },
       {
         text: "Go",
@@ -77,12 +77,12 @@ export class CardList {
       }
     ),
     new Card(
-      "Icanguessanumber?",
+      "Iwannaguessthenumber",
       "Learning Angular",
       "This is a small website I made to help me learn Angular",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/guessthenumber.png",
+        alt: "Field to enter a number"
       },
       {
         text: "Go",
