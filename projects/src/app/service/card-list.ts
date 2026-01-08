@@ -90,19 +90,5 @@ export class CardList {
         disabled: false
       }
     ),
-    new Card(
-      "My old website",
-      "Personal",
-      "freaky thing i made... it sucks",
-      {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
-      },
-      {
-        text: "Go",
-        link: "https://oldwebsite.projects.phuri.cc",
-        disabled: false
-      }
-    ),
   ]
 }
