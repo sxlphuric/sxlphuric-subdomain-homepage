@@ -11,7 +11,7 @@ export class CardList {
       "WebOS",
       "A mock operating system with a web browser and a few apps.",
       {
-        src: "broken.png",
+        src: "/images/afilite.png",
         alt: "Afilite homepage"
       },
       {
