@@ -68,7 +68,7 @@ export class CardList {
       "This mock operating system has a working browser and some games. (Does not work)",
       {
         src: "/images/broken.png",
-        alt: "Cactus in a pot"
+        alt: "Placeholder icon for no image"
       },
       {
         text: "Go",
