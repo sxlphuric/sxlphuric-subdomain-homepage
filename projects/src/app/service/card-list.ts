@@ -7,20 +7,6 @@ import { Card } from '../classes/card';
 export class CardList {
   cardlist: Card[] = [
     new Card(
-      "Extra work",
-      "English class",
-      "100% i am clearly doing extra work trust",
-      {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
-      },
-      {
-        text: "Go",
-        link: "https://phuri.cc",
-        disabled: false
-      }
-    ),
-    new Card(
       "Adrouter",
       "School",
       "Adrouter is a small website I made for an english project.",
