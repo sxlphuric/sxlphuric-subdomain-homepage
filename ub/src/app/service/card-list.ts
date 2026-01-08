@@ -11,7 +11,7 @@ export class CardList {
       "WebOS",
       "A mock operating system with a web browser and a few apps.",
       {
-        src: "afilite.png",
+        src: "broken.png",
         alt: "Afilite homepage"
       },
       {
@@ -23,7 +23,7 @@ export class CardList {
     new Card(
       "Arsenic",
       "Proxy",
-      "Arsenic is a simple, sleek, and efficient proxy.",
+      "Arsenic is a simple, sleek, and efficient proxy. (Does not work_",
       {
         src: "/images/broken.png",
         alt: "Placeholder icon for no image"
@@ -31,7 +31,7 @@ export class CardList {
       {
         text: "Go",
         link: "https://arsenic.ub.phuri.cc",
-        disabled: false
+        disabled: true
       }
     ),
     new Card(
@@ -65,7 +65,7 @@ export class CardList {
     new Card(
       "GalaxyOS",
       "WebOS",
-      "This mock operating system has a working browser and some games.",
+      "This mock operating system has a working browser and some games. (Does not work)",
       {
         src: "/images/broken.png",
         alt: "Cactus in a pot"
@@ -73,7 +73,7 @@ export class CardList {
       {
         text: "Go",
         link: "https://galaxy.ub.phuri.cc",
-        disabled: false
+        disabled: true
       }
     ),
     new Card(
@@ -137,7 +137,7 @@ export class CardList {
       "AIO",
       "Simple, clean proxy with some games. Usually my favorite.",
       {
-        src: "/images/wave.png",
+        src: "/images/waves.png",
         alt: "Waves search bar and apps"
       },
       {
