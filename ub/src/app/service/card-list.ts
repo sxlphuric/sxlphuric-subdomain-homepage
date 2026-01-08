@@ -11,8 +11,8 @@ export class CardList {
       "WebOS",
       "A mock operating system with a web browser and a few apps.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "afilite.png",
+        alt: "Afilite homepage"
       },
       {
         text: "Go",
@@ -25,8 +25,8 @@ export class CardList {
       "Proxy",
       "Arsenic is a simple, sleek, and efficient proxy.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/broken.png",
+        alt: "Placeholder icon for no image"
       },
       {
         text: "Go",
@@ -39,8 +39,8 @@ export class CardList {
       "AIO",
       "Doge Unblocker is a simple, yet nice looking proxy with some games.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/doge.png",
+        alt: "DogeUB homescreen and search"
       },
       {
         text: "Go",
@@ -53,8 +53,8 @@ export class CardList {
       "Proxy",
       "Instead of using a Scramjet proxy on the backend, it has a VPN.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/fern.png",
+        alt: "Fern logo, search bar and apps"
       },
       {
         text: "Go",
@@ -67,7 +67,7 @@ export class CardList {
       "WebOS",
       "This mock operating system has a working browser and some games.",
       {
-        src: "/images/placeholder.jpg",
+        src: "/images/broken.png",
         alt: "Cactus in a pot"
       },
       {
@@ -81,8 +81,8 @@ export class CardList {
       "AIO",
       "This used to be known as MexiMath, but rebranded.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/neo.png",
+        alt: "Neo proxy searchbar and games"
       },
       {
         text: "Go",
@@ -91,12 +91,12 @@ export class CardList {
       }
     ),
     new Card(
-      "Prism",
+      "Vapor",
       "Proxy",
-      "A simple proxy. This used to be known as Vapor",
+      "A simple proxy. Rebranded to Prism and back.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/vapor.png",
+        alt: "Vapor homepage (Logo)"
       },
       {
         text: "Go",
@@ -107,10 +107,10 @@ export class CardList {
     new Card(
       "TGLSC Unblocked",
       "AIO",
-      "Never used this before",
+      "Never used this before. Very clean and modern, just has ads.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/tglsc.png",
+        alt: "Homepage of TGLSC Unblocked"
       },
       {
         text: "Go",
@@ -121,10 +121,10 @@ export class CardList {
     new Card(
       "Utopia",
       "AIO",
-      "Probably the most popular one. Has its own chatbot.",
+      "Probably one of the most popular proxies. Has its own chatbot.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/utopia.png",
+        alt: "Utopia search bar"
       },
       {
         text: "Go",
@@ -137,8 +137,8 @@ export class CardList {
       "AIO",
       "Simple, clean proxy with some games. Usually my favorite.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/wave.png",
+        alt: "Waves search bar and apps"
       },
       {
         text: "Go",
@@ -148,11 +148,11 @@ export class CardList {
     ),
     new Card(
       "Vortex",
-      "Chat",
-      "An online chatting app with schools in mind",
+      "Other",
+      "An online chatting app (and more!) with schools in mind",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/vortex.png",
+        alt: "Vortex chat"
       },
       {
         text: "Go",

@@ -11,8 +11,8 @@ export class CardList {
       "Platform",
       "One of the biggest game websites out there for schools",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/duck.png",
+        alt: "Grid of games"
       },
       {
         text: "Go",
@@ -25,8 +25,8 @@ export class CardList {
       "Platform",
       "A very known games website for schools with a proxy, somewhat controversial.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/frogie.png",
+        alt: "Searchbar and menu from Frogie's arcade"
       },
       {
         text: "Go",
@@ -39,8 +39,8 @@ export class CardList {
       "Platform",
       "A very known games website for schools, somewhat controversial.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/truffled.png",
+        alt: "Truffled search bar"
       },
       {
         text: "Go",
@@ -53,8 +53,8 @@ export class CardList {
       "Platform",
       "A very unknown games website. I think it's high quality.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/quasar.png",
+        alt: "Quasar search bar and apps"
       },
       {
         text: "Go",
@@ -67,8 +67,8 @@ export class CardList {
       "Games",
       "Minecraft 1.12.2 in your browser! This is the WASM version.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/eagler.png",
+        alt: "Minecraft 1.12.2 main menu"
       },
       {
         text: "Go",
@@ -81,8 +81,8 @@ export class CardList {
       "Games",
       "An element playground. Straight on your browser.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/sandboxels.png",
+        alt: "Box with element names under"
       },
       {
         text: "Go",
@@ -95,8 +95,8 @@ export class CardList {
       "Games",
       "Google snake, but with mods! Have some extras in your game.",
       {
-        src: "/images/placeholder.jpg",
-        alt: "Cactus in a pot"
+        src: "/images/snake.png",
+        alt: "Google snake game window"
       },
       {
         text: "Go",
