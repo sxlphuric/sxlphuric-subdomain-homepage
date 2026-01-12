@@ -7,9 +7,23 @@ import { Card } from '../classes/card';
 export class CardList {
   cardlist: Card[] = [
     new Card(
+      "Quasar",
+      "AIO",
+      "A very unknown proxy. I think it is very simplistic and underrated.",
+      {
+        src: "/images/quasar.png",
+        alt: "Quasar search bar and apps"
+      },
+      {
+        text: "Go",
+        link: "https://quasar.ubg.phuri.cc",
+        disabled: false
+      }
+    ),
+    new Card(
       "AfiliteOS",
-      "WebOS",
-      "A mock operating system with a web browser and a few apps.",
+      "AIO",
+      "A platform with multiple stuff, like games, a webOS and more.",
       {
         src: "/images/afilite.png",
         alt: "Afilite homepage"

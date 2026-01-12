@@ -49,20 +49,6 @@ export class CardList {
       }
     ),
     new Card(
-      "Quasar",
-      "Platform",
-      "A very unknown games website. I think it's high quality.",
-      {
-        src: "/images/quasar.png",
-        alt: "Quasar search bar and apps"
-      },
-      {
-        text: "Go",
-        link: "https://quasar.ubg.phuri.cc",
-        disabled: false
-      }
-    ),
-    new Card(
       "Pixel Client 1.12.2",
       "Games",
       "Minecraft 1.12.2 in your browser! This is the WASM version.",
