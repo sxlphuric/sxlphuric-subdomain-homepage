@@ -21,20 +21,6 @@ export class CardList {
       }
     ),
     new Card(
-      "Arsenic",
-      "Proxy",
-      "Arsenic is a simple, sleek, and efficient proxy. (Does not work_",
-      {
-        src: "/images/broken.png",
-        alt: "Placeholder icon for no image"
-      },
-      {
-        text: "Go",
-        link: "https://arsenic.ub.phuri.cc",
-        disabled: true
-      }
-    ),
-    new Card(
       "DogeUB",
       "AIO",
       "Doge Unblocker is a simple, yet nice looking proxy with some games.",
