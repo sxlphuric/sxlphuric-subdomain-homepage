@@ -58,7 +58,7 @@ export class CardList {
       },
       {
         text: "Go",
-        link: "https://galaxy.ub.phuri.cc",
+        link: "https://ub.phuri.cc/#",
         disabled: true
       }
     ),
