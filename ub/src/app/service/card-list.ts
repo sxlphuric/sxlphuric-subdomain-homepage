@@ -16,7 +16,7 @@ export class CardList {
       },
       {
         text: "Go",
-        link: "https://quasar.ubg.phuri.cc",
+        link: "https://quasar.ub.phuri.cc",
         disabled: false
       }
     ),
