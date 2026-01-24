@@ -77,16 +77,16 @@ export class CardList {
       }
     ),
     new Card(
-      "Iwannaguessthenumber",
+      "Mattress Sleep Quiz",
       "Learning Angular",
-      "This is a small website I made to help me learn Angular",
+      "This is a small website I made to help me learn Angular.",
       {
-        src: "/images/guessthenumber.png",
-        alt: "Field to enter a number"
+        src: "/images/MattressChooser.png",
+        alt: "List of mattresses and price"
       },
       {
         text: "Go",
-        link: "https://number-guess.projects.phuri.cc",
+        link: "https://mattressmatcher.projects.phuri.cc",
         disabled: false
       }
     ),
